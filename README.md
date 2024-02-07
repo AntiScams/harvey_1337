@@ -22,13 +22,13 @@ natimusso@gmail.com
 # STEAM ID(S):  
 76561198306624809 //   
 
-# ALTERNATIVE ALIASES & CHEATS
-Dropcheats.cc
-Monic.boo
-Banned on Elitepvpers.com profiles for scamming & having multiple accounts:
-https://www.elitepvpers.com/forum/members/8690583-monicboo.html
-
-Also known as Lewis
+# ALTERNATIVE ALIASES & CHEATS  
+Dropcheats.cc  
+Monic.boo  
+Banned on Elitepvpers.com profiles for scamming & having multiple accounts:  
+https://www.elitepvpers.com/forum/members/8690583-monicboo.html  
+  
+Also known as Lewis  
 
 
 
