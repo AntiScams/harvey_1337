@@ -1,17 +1,20 @@
 # Discord Usernames:  
 [Discord Name | UID]  
+```diff
 Harvey_1337  | UID: 1004350103395520533  
 _switch_7 | UID: 1085928786056458371  
 entzyn | UID: 811040656688545802  
 compiledcode. | UID: 690539944782987315  
 teddy.dev  
+```
   
-# ALL IP ADDRESSES:  
+# ALL IP ADDRESSES:
+```  
 185.239.72.22  
 81.36.130.194  
 81.36.137.129  
 77.231.190.214  
-
+```
 
 # EMAIL ACCOUNTS:  
 natimusso@gmail.com  
