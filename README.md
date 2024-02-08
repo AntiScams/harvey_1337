@@ -27,7 +27,7 @@ natimusso@gmail.com
 ### ALTERNATIVE ALIASES & CHEATS  
 Dropcheats.cc  
 Monic.boo  
-Serotonin.wt  
+Serotonin.wtf  
 Banned on Elitepvpers.com profiles for scamming & having multiple accounts:  
 https://www.elitepvpers.com/forum/members/8690583-monicboo.html  
   
