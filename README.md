@@ -3,6 +3,7 @@
 ### Discord Usernames:  
 [Discord Name | UID]  
 ```diff
+harvey.1337 | UID: 683362708477050880    --NEWEST 6-3-2024
 Harvey_1337  | UID: 1004350103395520533  
 _switch_7 | UID: 1085928786056458371  
 entzyn | UID: 811040656688545802  
@@ -11,7 +12,8 @@ teddy.dev
 ```
   
 ### ALL IP ADDRESSES:
-```  
+```
+217.61.227.157 -- Madrid     -- LATEST KNOWN IP 6-3-2024
 185.239.72.22  
 81.36.130.194  
 81.36.137.129  
