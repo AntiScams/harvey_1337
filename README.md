@@ -1,4 +1,4 @@
-# SCAMMER & RATTER | Harvey_1337 | UID: 1004350103395520533  
+# SCAMMER & RATTER | NEW DISCORD: Harvey.1337 | Harvey_1337 | UID: 1004350103395520533  
 
 ### Discord Usernames:  
 [Discord Name | UID]  
